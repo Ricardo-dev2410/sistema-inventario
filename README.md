@@ -26,14 +26,10 @@ Dashboard web para pequeños negocios. Carga un archivo Excel y obtén automáti
 
 Descarga la plantilla `plantilla_inventario.xlsx` (incluida en la carpeta), copia tus datos y listo.
 
-## 📸 Vista previa
-
-![Captura del sistema](captura.png)
-
 ## ❓ ¿Problemas?
 
 Si el sistema no se abre, asegúrate de tener instalado Python en tu computadora. Si no, descárgalo desde [python.org](https://www.python.org/downloads/) (marca "Add to PATH" durante la instalación).
 
 ---
-
+## 📸 Vista previa
 *Desarrollado para pequeños negocios - Sistema de alertas de inventario*<img width="1920" height="1020" alt="Captura Analizador Inventario" src="https://github.com/user-attachments/assets/663c358a-9b1c-468e-b884-231f38d19754" />
